@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GitHub\\INUS_Interfaz\\INUS\\Source\\INUS\\INUS.Build.cs",
+		"D:\\GitHub\\INUS_Interfaz\\INUS\\Source\\INUS.Target.cs",
+		"D:\\GitHub\\INUS_Interfaz\\INUS\\Source\\INUSEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}

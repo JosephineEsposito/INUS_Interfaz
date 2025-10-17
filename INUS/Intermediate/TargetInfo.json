@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "INUS",
+			"Path": "..\\Source\\INUS.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "INUSEditor",
+			"Path": "..\\Source\\INUSEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

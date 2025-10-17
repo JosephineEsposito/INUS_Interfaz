@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-INUS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GitHub\INUS_Interfaz\INUS\Intermediate\Build\Win64\x64\INUSEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\GitHub\INUS_Interfaz\INUS\Intermediate\Build\Win64\x64\UnrealEditor\Development\INUS\INUS.cpp.obj"
+"D:\GitHub\INUS_Interfaz\INUS\Intermediate\Build\Win64\x64\UnrealEditor\Development\INUS\PerModuleInline.gen.cpp.obj"
+"D:\GitHub\INUS_Interfaz\INUS\Intermediate\Build\Win64\x64\UnrealEditor\Development\INUS\Default.rc2.res"
+/OUT:"D:\GitHub\INUS_Interfaz\INUS\Intermediate\Build\Win64\x64\UnrealEditor\Development\INUS\UnrealEditor-INUS.lib"
