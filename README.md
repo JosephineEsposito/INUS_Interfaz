@@ -61,15 +61,3 @@ El árbol se organizó en **tres ramas principales** (Velocidad, Salud y Daño) 
 - Añadir animaciones y transiciones visuales más elaboradas.
 - Optimizar la creación de nodos de manera dinámica para árboles más grandes.
 
----
-
-# Capturas
-
-![[Pasted image 20251017204531.png]]
-
-![[Pasted image 20251017204547.png]]
-
-![[Pasted image 20251017204614.png]]
-
-![[Pasted image 20251017210724.png]]
-
