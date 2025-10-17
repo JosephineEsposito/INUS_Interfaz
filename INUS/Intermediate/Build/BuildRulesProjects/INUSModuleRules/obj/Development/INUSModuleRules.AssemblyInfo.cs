@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("INUSModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93be6267886a7ea3e7ceb218a104ec9f919dbf10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19dd00a211393e5a6ea3c36d0199ce48531ed266")]
 [assembly: System.Reflection.AssemblyProductAttribute("INUSModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("INUSModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

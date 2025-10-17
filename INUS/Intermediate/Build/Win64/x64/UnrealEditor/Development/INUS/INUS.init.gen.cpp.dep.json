@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\inus_interfaz\\inus\\intermediate\\build\\win64\\unrealeditor\\inc\\inus\\uht\\inus.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\inus_interfaz\\inus\\intermediate\\build\\win64\\x64\\inuseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\inus_interfaz\\inus\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inus\\definitions.inus.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

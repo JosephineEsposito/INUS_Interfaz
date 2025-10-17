@@ -11,6 +11,7 @@
     <None Include="..\..\Source\INUSEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -36,6 +37,30 @@
       <Filter>Source\INUS</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\INUS\INUS.h">
+      <Filter>Source\INUS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\INUS\SkillData.cpp">
+      <Filter>Source\INUS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\INUS\SkillData.h">
+      <Filter>Source\INUS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\INUS\SkillTreeComponent.cpp">
+      <Filter>Source\INUS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\INUS\SkillTreeComponent.h">
+      <Filter>Source\INUS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\INUS\SkillTreeWidget.cpp">
+      <Filter>Source\INUS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\INUS\SkillTreeWidget.h">
+      <Filter>Source\INUS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\INUS\SkillWidget.cpp">
+      <Filter>Source\INUS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\INUS\SkillWidget.h">
       <Filter>Source\INUS</Filter>
     </ClCompile>
   </ItemGroup>

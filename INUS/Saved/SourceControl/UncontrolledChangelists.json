@@ -5,7 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/GitHub/INUS_Interfaz/INUS/Content/Maps/BaseMap.umap"
+				"D:/GitHub/INUS_Interfaz/INUS/Content/Maps/BaseMap.umap",
+				"D:/GitHub/INUS_Interfaz/INUS/Content/Blueprints/WB_SkillTree.uasset",
+				"D:/GitHub/INUS_Interfaz/INUS/Content/Blueprints/WB_Skill.uasset",
+				"D:/GitHub/INUS_Interfaz/INUS/Content/Sprites/tile_0001.uasset",
+				"D:/GitHub/INUS_Interfaz/INUS/Content/Sprites/tile_0000.uasset",
+				"D:/GitHub/INUS_Interfaz/INUS/Content/Sprites/runeBlue_tile_022.uasset",
+				"D:/GitHub/INUS_Interfaz/INUS/Content/Sprites/runeBlue_tile_020.uasset",
+				"D:/GitHub/INUS_Interfaz/INUS/Content/Sprites/runeBlue_tile_014.uasset",
+				"D:/GitHub/INUS_Interfaz/INUS/Content/Sprites/runeBlue_tile_012.uasset",
+				"D:/GitHub/INUS_Interfaz/INUS/Content/Sprites/runeBlue_tile_007.uasset",
+				"D:/GitHub/INUS_Interfaz/INUS/Content/Sprites/runeBlue_tile_004.uasset",
+				"D:/GitHub/INUS_Interfaz/INUS/Content/Blueprints/BP_PlayerController.uasset",
+				"D:/GitHub/INUS_Interfaz/INUS/Content/Blueprints/BP_GameMode.uasset"
 			]
 		}
 	]
